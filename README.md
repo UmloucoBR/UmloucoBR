@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UmloucoBR
+- 👋 Hi, I’m Gabriel Lucas.
 - 👀 I’m interested in AirPlanes.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
