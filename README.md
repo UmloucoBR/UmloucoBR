@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Gabriel Lucas.
-- 👀 I’m interested in AirPlanes.
-- 🌱 I’m currently learning C++, Java, JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! I’m Gabriel Lucas.
+I'm currently learning C++.
 
 <!---
 UmloucoBR/UmloucoBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
